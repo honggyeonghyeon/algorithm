@@ -31,7 +31,7 @@ import java.util.StringTokenizer;
     comb(cnt+1, s*s`, b+b`)
 
 [시간 복잡도]
-O(N^2)
+O(2^N)
  */
 public class B2961_S2_도영이가_만든_맛있는_음식 {
 
